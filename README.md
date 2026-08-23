@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chandrawe">
+  <a href="https://github.com/w-tjhandr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/welly-chandra-mauliate-sitorus-919243316">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
