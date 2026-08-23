@@ -1,37 +1,117 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Welly Sitorus</h1>
 
-###
+<p align="center">
+  <strong>Network Engineer • MikroTik Certified Trainer • Technology Builder</strong>
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  I build, troubleshoot, teach, and experiment with networking, infrastructure, and software.
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/chandrawe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+## 🧑‍💻 About Me
+
+I'm a **Network Engineer and MikroTik Certified Trainer** who enjoys working at the intersection of
+**network infrastructure, software, automation, and technology education**.
+
+My main playground is networking — from small-scale labs to ISP-grade infrastructure.
+
+- 🌐 Network Engineering & ISP Infrastructure
+- 🔧 MikroTik RouterOS & Network Troubleshooting
+- 📡 IP/MPLS, BGP, OSPF, VLAN & IPv6
+- 🧑‍🏫 MikroTik Training & Technology Education
+- 💻 Web Application Development
+- ⚙️ Automation & Infrastructure Tooling
+- 🐧 Linux & Open Source
+
+---
+
+## 🌐 Networking
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/BGP-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSPF-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MPLS-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IPv6-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PPPoE-F97316?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,tailwind" />
+</p>
+
+### Infrastructure & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgresql,git,github,gitlab,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+Currently interested in building tools that connect **networking, education, and automation**.
+
+Some things I've been working on:
+
+- 🔬 Network automation & infrastructure tooling
+- 🎓 Technology education platforms
+- 🧪 Network laboratories and experiments
+- 💻 Web-based assessment systems
+- ⚙️ Internal tools for network operations
+- 📡 ISP & enterprise network infrastructure
+
+---
+
+## 🎓 Certifications & Training
+
+**MikroTik Certified Trainer**
+
+Areas I work with:
+
+- MTCNA
+- MTCRE
+- MTCIPv6E
+- MTCWE
+- MTCSE
+- MTCINE
+- MTCTCE
+
+I primarily teach and work with:
+
+**MTCNA • MTCRE • MTCIPv6E**
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Networking       ████████████████████  ISP / Enterprise Infrastructure
+Linux            ███████████████████░  Systems & Automation
+MikroTik         ████████████████████  RouterOS / Network Engineering
+Programming      ███████████████░░░░░  Go / Python / TypeScript
+Web Development  ███████████████░░░░░  React / Next.js
+Automation       ████████████████░░░░  Network & Infrastructure
