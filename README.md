@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Welly Sitorus</h1>
+<h1 align="center">Hey 👋 I'm Welly Chandra Sitorus</h1>
 
 <p align="center">
   <strong>Network Engineer • MikroTik Certified Trainer • Technology Builder</strong>
