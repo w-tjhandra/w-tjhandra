@@ -53,9 +53,9 @@ Main playground: dari lab kecil sampai ISP-grade network.
   <img src="https://img.shields.io/badge/OSPF-F97316?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MPLS-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IPv6-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IS-IS-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISIS-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/L2VPN-F97316?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/L3VPN-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/L3VPN-2563EB?style=for-the-badge" />
 
 </p>
 
