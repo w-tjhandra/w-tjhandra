@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋 I'm Welly Chandra</h1>
 
 <p align="center">
-  <strong>Network Engineer • MikroTik Certified Trainer • Technology Builder</strong>
+  <strong>Network Engineer • MikroTik Certified Trainer • Research and Development</strong>
 </p>
 <p align="center">
-  Building, troubleshooting & teaching networks, infrastructure, and software.
+  Building, troubleshooting & teaching networks, infrastructure.
 </p>
 <p align="center">
   <a href="https://github.com/w-tjhandra">
